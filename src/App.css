@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+#user {
+  background: #61dafb;
+  width: 200px;
+}
+
+#post {
+  background: darkcyan;
+  font-size: 10px;
+  width: 800px;
+}
+
+#comment {
+  background: burlywood;
+  font-size: 10px;
+  width: 1000px;
+}
+
+#header {
+  display: flex;
+  flex-direction: row;
+}
