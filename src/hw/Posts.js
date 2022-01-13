@@ -1,6 +1,6 @@
 import {useEffect, useState} from "react";
-import Post from "./Post";
 
+import Post from "./Post";
 export default function Posts () {
 
     let [posts, setPosts] = useState([]);
